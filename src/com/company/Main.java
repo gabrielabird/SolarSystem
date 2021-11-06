@@ -11,11 +11,11 @@ public class Main {
         andromeda.Moon=4;
 
         featureSun mikeSun=new featureSun();
-        mikeSun.color="blue";
-        mikeSun.heat="564684132";
-        mikeSun.temp="4F";
-        mikeSun.radius="0.009";
-        mikeSun.maritalStatus="single";
+        mikeSun.color="Red";
+        mikeSun.heat="577777732";
+        mikeSun.temp="4000 F";
+        mikeSun.radius="090000000km";
+        mikeSun.maritalStatus="unknown";
 
     }
 }
